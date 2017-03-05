@@ -2,7 +2,9 @@
 main:
   - title: "About me"
     url: /about/
-  - title: "Projects"
+  - title: "Research"
+    url: /research/
+  - title: "Blog"
     url: /project/
   # - title: "Sample Posts"
   #   url: /year-archive/
