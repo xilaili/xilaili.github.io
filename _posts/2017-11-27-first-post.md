@@ -27,7 +27,7 @@ An AOGNet consists of a number of stages each of which is composed of a number o
 <br>
 
 ## Results
-<img align="middle" width="500" src="{{ site.url }}/images/OGNet-results.png" alt="...">
+<img align="middle" width="500" src="{{ site.url }}/images/AOGNet-results.png" alt="...">
 
 
 
