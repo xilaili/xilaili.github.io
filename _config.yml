@@ -9,14 +9,12 @@ disqus_shortname: xilaili
 # Owner/author information
 owner:
   name:           Xilai Li
-  avatar:         jordi.png
-  bio:            I'm from a small town near Girona, Catalunya. Currently in Zürich, Switzerland. Passionate about computer vision, technology, running, and mountains.
-  email:          xilaili@gmail.com
+  avatar:         xilai.jpg
+  bio:            I'm from Shenyang, China. Currently in Raleigh, North Carolina. Passionate about computer vision, deep learning and basketball.
+  email:          xli47@ncsu.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: xilaili
-  linkedin: xilaili
-  google_scholar: VCBBx24AAAAJ
-  google_plus: 113718226018314522413
+  linkedin: xilai-li-10a293125
+  google_scholar: 5Pjns7kAAAAJ
   github: xilaili
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-52736040-1
@@ -37,7 +35,7 @@ links:
     url: /blog/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Europe/Zurich
+timezone:    America/Detroit
 future:      true
 #pygments:    true
 highlighter: rouge
