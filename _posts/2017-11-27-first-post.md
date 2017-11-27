@@ -20,14 +20,14 @@ The wisdom in designing better deep network architectures usually lies in findin
 <br>
 
 Grammar models are well known in both natural language processing and computer vision. Image grammar was one of the dominant methods in computer vision before the recent resurgence in popularity of deep neural networks. With the recent resurgence, one fundamental puzzle arises that grammar models with more explicitly compositional structures and more analytic and theoretical potential, often perform worse than their neural network counterparts. **The proposed method bridges the performance gap, which is motivated by and aims to show the advantage of two nice properties of grammar which are desirable in network engineering: (i) The flexibility and simplicity of constructing different types of structure topology based on a dictionary of primitives and a set of production rules in a principled way; and (ii) The highly expressive power and the parsimonious compactness of its explicitly hierarchical and compositional structure. Furthermore, the explainable rigor of grammar could be harnessed potentially to address the intepretability issue of deep neural networks.**
-<br><br>
+<br>
 
 ## Overview of the Proposed AOGNets
 An AOGNet consists of a number of stages each of which is composed of a number of And-Or grammar (AOG) building blocks. Here, a 3-stage network is shown in (a) with 1 building block in the first and third stage and 2 in the second stage. (b) illustrates the AOG building block. The input feature map is treated as a sentence of N words (e.g., N=4). The And-Or graph of the building block is constructed to explore all possible parses of the sentence w.r.t. a binary composition rule. Each node applies some basic operation (e.g., an example is show in (d) adapted from the bottleneck operator in ResNets to its input. The inputs are computed as shown in (c). There are three types of nodes: an **And-node** explores composition, whose input is computed by concatenating features of its child nodes; an **Or-node** represents alternative ways of composition in the spirit of exploitation, whose input is the element-wise sum of features of its child nodes; and a **Terminal-node** takes as input a channel-wise slice of the input feature map (i.e., a k-gram). Note that the output feature map usually has smaller spatial dimensionality through the sub-sampling used in the Terminal-node operations and larger number of channels. We also notice that different stages can use different And-Or graphs (we show the same one in (a) for simplicity), and before entering the first AOG stage we can apply multiple steps of Conv-BatchNorm-ReLu or front-end stages from other networks such as ResNets (thus AOGNets can be integrated with many other networks).
-<br><br>
+<br>
 
 ## Results
-
+<img align="middle" width="500" src="{{ site.url }}/images/OGNet-results.png" alt="...">
 
 
 
