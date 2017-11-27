@@ -9,6 +9,6 @@ comments: false
 
 ### Research
 
-* [**AOGNet**](https://xilaili.github.io/code/)<br>
+* [**AOGNets: Deep AND-OR Grammar Networks for Visual Recognition**](https://xilaili.github.io/code/)<br>
 Coming soon. 
 
