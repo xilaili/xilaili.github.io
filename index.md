@@ -1,6 +1,6 @@
 ---
 layout: home2
-title: About 
+title: About Me
 description: "Xilai Li's website"
 tags: [Jekyll, theme, responsive, blog, template]
 ---
