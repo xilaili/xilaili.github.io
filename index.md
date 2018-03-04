@@ -14,7 +14,4 @@ Before joining Prof. Wu's group, I have around three years reseach experience on
 My current research focuses on computer vision and machine learning, in particular novel deep convolutional neural network architectures, resource efficient learning, and explainable learning model and its application to visual recognition tasks such as object detection and scene understanding.
 
 <br />
-Recently, I'm looking for a computer vision/deep learning research internship position for summer 2018. 
-
-<br />
 My full CV could be downloaded [here](https://raw.githubusercontent.com/xilaili/xilaili.github.io/master/cv_xilai_li.pdf). 
