@@ -1,0 +1,51 @@
+text,audio_url
+"Neural network based end-to-end text to speech has significantly improved the quality of synthesized speech.",https://xilaili.github.io/wavs/0000/audio_000.wav
+"While prior work has shown that scaling neural models in the number of parameters and the size of the data they are trained on gives improved results, we show that other ingredients are important for a high-performing chatbot.",https://xilaili.github.io/wavs/0000/audio_001.wav
+"We consider three types of architectures in this work: retrieval, generative, and retrieve-and-refine models.",https://xilaili.github.io/wavs/0000/audio_002.wav
+"We can also use the same mechanism to first retrieve from a large knowledge base, instead of retrieving an initial dialogue utterance. We can then condition the generation on the retrieved knowledge, as done in models proposed for the Wizard of Wikipedia task.",https://xilaili.github.io/wavs/0000/audio_003.wav
+"Two widely used deterministic decoding approaches are greedy search and beam search.",https://xilaili.github.io/wavs/0000/audio_004.wav
+"Both our two point seven billion and nine point four billion parameter models were trained with batches of approximately five hundred thousands label B P E tokens per batch.",https://xilaili.github.io/wavs/0000/audio_005.wav
+"My son plays on a local football team as a Quarterback.",https://xilaili.github.io/wavs/0000/audio_006.wav
+"Exactly! I think many people fail to notice how beautiful the art of video games can be.",https://xilaili.github.io/wavs/0000/audio_007.wav
+"Sounds nice. Are they new or vintage?",https://xilaili.github.io/wavs/0000/audio_008.wav
+"They are new, I got them because of my love for cats. I have to show off my beautiful green eyes somehow.",https://xilaili.github.io/wavs/0000/audio_009.wav
+"Our pre-training data, though large, contains data consisting of group discussions, rather than direct two-way conversational data.",https://xilaili.github.io/wavs/0000/audio_010.wav
+"What kind of music do you like? I like all kinds of music, but country is my favorite.",https://xilaili.github.io/wavs/0000/audio_011.wav
+"I love spicy curry too! I also like to make my own curry from scratch.",https://xilaili.github.io/wavs/0000/audio_012.wav
+"I like fish curries and the milder, sweeter sorts like panang. A little bite, but not too fiery. So, yeah, basically Thai curries.",https://xilaili.github.io/wavs/0000/audio_013.wav
+"I love walking my dog too! What kind of dog do you have? I have a yellow lab.",https://xilaili.github.io/wavs/0000/audio_014.wav
+"Mine is a German Shepherd. She's so pretty! Is yours a boy or girl dog?",https://xilaili.github.io/wavs/0000/audio_015.wav
+"Wade had the most efficient shooting season of his career to that point, hitting sixty point three percent of his two-point shots and 40.6 percent from beyond the arc.",https://xilaili.github.io/wavs/0000/audio_016.wav
+"The highest-rated non-championship season saw Chamberlain post twenty-five point six win shares, the second most in NBA history.",https://xilaili.github.io/wavs/0000/audio_017.wav
+"This was Mikan's official rookie season, he had played in the N B L the previous two years -- and the final season of the Basketball Association of America, the precursor to the NBA.",https://xilaili.github.io/wavs/0000/audio_018.wav
+"During his 1991 playoff run, Michael Jordan did a sit-down interview with then-NBC analyst Pat Riley, who asked him whether he would view his career as disappointing if he never won a title.",https://xilaili.github.io/wavs/0000/audio_019.wav
+"A Trump administration projection and a public model both predict deaths rising as states reopen.",https://xilaili.github.io/wavs/0000/audio_020.wav
+"As President Trump presses for states to reopen their economies, his administration is privately projecting a steady rise in the number of corona-virus cases and deaths over the next several weeks.",https://xilaili.github.io/wavs/0000/audio_021.wav
+"As the administration privately predicted a sharp increase in deaths, a public model that has been frequently cited by the White House revised its own estimates and projected a death toll of more than double what it was predicting last month.",https://xilaili.github.io/wavs/0000/audio_022.wav
+"On Sunday, Mr. Trump said deaths in the United States could reach 100,000, twice as many as he had forecast just two weeks ago.",https://xilaili.github.io/wavs/0000/audio_023.wav
+"But that new number still underestimates what his own administration is now predicting to be the total death toll by the end of May, much less in the months to come.",https://xilaili.github.io/wavs/0000/audio_024.wav
+"Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together.",https://xilaili.github.io/wavs/0000/audio_025.wav
+"Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance.",https://xilaili.github.io/wavs/0000/audio_026.wav
+"Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.",https://xilaili.github.io/wavs/0000/audio_027.wav
+"Often, programmers fall in love with Python because of the increased productivity it provides.",https://xilaili.github.io/wavs/0000/audio_028.wav
+"Despite decades of work, the strongest Go computer programs could only play at the level of human amateurs.",https://xilaili.github.io/wavs/0000/audio_029.wav
+"Standard artificial intelligence methods, which test all possible moves and positions using a search tree, can’t handle the sheer number of possible Go moves or evaluate the strength of each possible board position.",https://xilaili.github.io/wavs/0000/audio_030.wav
+"According to a new post published at the company’s website by CEO Richard Socher, a Stanford PhD who studied machine learning, deep learning, natural language processing and computer vision.",https://xilaili.github.io/wavs/0000/audio_031.wav
+"Byte Dance is a Chinese internet technology company headquartered in Beijing, China.",https://xilaili.github.io/wavs/0000/audio_032.wav
+"There are two existing strategies for applying pre-trained language representations to downstream tasks: feature-based and fine-tuning.",https://xilaili.github.io/wavs/0000/audio_033.wav
+"We introduce a new language representation model called BERT, which stands for Bi-directional Encoder Representations from Transformers.",https://xilaili.github.io/wavs/0000/audio_034.wav
+"There has also been work showing effective transfer from supervised tasks with large datasets, such as natural language inference and machine translation.",https://xilaili.github.io/wavs/0000/audio_035.wav
+"We introduce BERT and its detailed implementation in this section. There are two steps in our framework: pre-training and fine-tuning.",https://xilaili.github.io/wavs/0000/audio_036.wav
+"During pre-training, the model is trained on unlabeled data over different pre-training tasks. For fine-tuning, the BERT model is first initialized with the pre-trained parameters, and all of the parameters are fine-tuned using labeled data from the downstream tasks.",https://xilaili.github.io/wavs/0000/audio_037.wav
+"In order to train a deep bi-directional representation, we simply mask some percentage of the input tokens at random, and then predict those masked tokens.",https://xilaili.github.io/wavs/0000/audio_038.wav
+"Transformer-based models are unable to process long sequences due to their self-attention operation, which scales quadratically with the sequence length.",https://xilaili.github.io/wavs/0000/audio_039.wav
+"To address this limitation, we introduce the Longformer with an attention mechanism that scales linearly with sequence length, making it easy to process documents of thousands of tokens or longer.",https://xilaili.github.io/wavs/0000/audio_040.wav
+"This machine learning model created a consistent persona based on these few lines of bio. You can now chat with this persona below.",https://xilaili.github.io/wavs/0000/audio_041.wav
+"We’re on a journey to advance and democratize Natural Language Processing for everyone. Along the way, we contribute to the development of technology for the better.",https://xilaili.github.io/wavs/0000/audio_042.wav
+"Speech recognition has been successfully deployed on various smart devices, and is changing the way we interact with them.",https://xilaili.github.io/wavs/0000/audio_043.wav
+"Traditional phonetic-based recognition approaches require training of separate components such as pronunciation, acoustic and language model.",https://xilaili.github.io/wavs/0000/audio_044.wav
+"Marc Benioff is Chair, Chief Executive Officer and Founder of Salesforce and a pioneer of cloud computing.",https://xilaili.github.io/wavs/0000/audio_045.wav
+"Building a different kind of company, Benioff created Salesforce to not only develop great products, but also to have a positive impact on the world.",https://xilaili.github.io/wavs/0000/audio_046.wav
+"Benioff and his wife, Lynne, have focused their philanthropy on children’s health, the environment, public education and homelessness.",https://xilaili.github.io/wavs/0000/audio_047.wav
+"The cause of the crash is still unknown, as the helicopter was not equipped with a black box.",https://xilaili.github.io/wavs/0000/audio_048.wav
+"Kobe Bryant is one of the greatest player of all time in the NBA history.",https://xilaili.github.io/wavs/0000/audio_049.wav
